@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+agm_logger/__init__.py
+agm_logger/logger.py
+agm_logger.egg-info/PKG-INFO
+agm_logger.egg-info/SOURCES.txt
+agm_logger.egg-info/dependency_links.txt
+agm_logger.egg-info/not-zip-safe
+agm_logger.egg-info/top_level.txt
